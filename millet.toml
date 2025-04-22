@@ -1,0 +1,7 @@
+version = 1
+
+[workspace]
+root = "build.mlb"
+
+[language]
+fixity-across-files = true
